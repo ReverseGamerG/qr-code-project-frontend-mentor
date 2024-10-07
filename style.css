@@ -1,0 +1,63 @@
+body{
+  background-color: #d5e1ef;
+}
+
+body{
+ font-family: "Outfit", system-ui;
+ font-optical-sizing: auto;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+#container{
+  width: 320px;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 21px;
+  margin: 105px auto;
+  margin-bottom: 75px;
+  box-shadow: 5px 35px 40px -2px #c1cbde;
+} 
+
+#qrcode{
+  text-align: center;
+}
+
+#qrcode img{
+  height: 288px;
+  width: auto;
+  border-radius: 10px;
+  margin-top: 16px;
+}
+
+#container01{
+  margin: 24px 16px 40px 16px;
+  padding: 0px 16px 0px 16px;
+}
+
+h1{
+ width: 256px;
+ height: 52px;
+ font-weight: 700;
+ font-size: 22px;
+ text-align: center;
+ margin: 0 0 16px 0;
+ color: #1F314F;
+}
+
+ul{
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+  text-align: center;
+}
+
+ul li p{
+ width: 256px;
+ height: 63px;
+ font-weight: 400;
+ font-size: 15px;
+ letter-spacing: 0.2px;
+ color: #68778D;
+}
